@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 3rd-year BSIT student @ QCU<br>💻 Backend Developer in progress<br>🌱 Learning Backend, ML, Data Engineering & Cloud<br>🔭 Building projects and learning along the way
+👋 4th-year BSIT student @ QCU<br>💻 Backend Developer in progress<br>🌱 Learning Backend, ML, Data Engineering & Cloud<br>🔭 Building projects and learning along the way
 
 
 ## 🌐 Socials:
